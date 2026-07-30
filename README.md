@@ -1,6 +1,6 @@
 # ugrad-notes
 
-Notes, reports, and materials from undergraduate coursework.
+Notes, reports, and materials from my undergraduate coursework that defined my thesis.
 
 ## Courses
 
